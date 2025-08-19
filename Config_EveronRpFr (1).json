@@ -1,0 +1,37 @@
+{
+    "bindAddress": "0.0.0.0",
+    "bindPort": 2001,
+    "publicAddress": "",
+    "publicPort": 2001,
+    "game": {
+        "name": "WOUSINWORLD Capture & Hold - Almara Factory",
+        "password": "",
+        "passwordAdmin": "",
+        "maxPlayers": 24,
+        "scenarioId": "{3DAD390C31623F04}Missions/24_OVT_Eden.conf",
+        "gameProperties": {
+            "serverMaxViewDistance": 1600.0,
+            "networkViewDistance": 500,
+            "serverMinGrassDistance": 50,
+            "battlEye": true,
+            "disableThirdPerson": false,
+            "VONDisableUI": true,
+            "VONDisableDirectSpeechUI": false,
+            "VONCanTransmitCrossFaction": true
+        },
+        "mods": [
+            {
+                "modId": "65C225AFEAB79BCA",
+                "name": "OverRp2.0",
+                "version": "1.0.1"
+            }
+        ],
+        "visible": true,
+        "crossPlatform": true
+    },
+    "operating": {
+        "joinQueue": {
+            "maxSize": 5
+        }
+    }
+}

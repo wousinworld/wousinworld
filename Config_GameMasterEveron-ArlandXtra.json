@@ -1,0 +1,457 @@
+{
+    "bindAddress": "0.0.0.0",
+    "bindPort": 2001,
+    "publicAddress": "",
+    "publicPort": 2001,
+    "game": {
+        "name": "wousin world",
+        "password": "",
+        "passwordAdmin": "",
+        "maxPlayers": 100,
+        "scenarioId": "{9F6D6396CD41C3B3}Missions/ExA Xtra.conf",
+        "gameProperties": {
+            "serverMaxViewDistance": 1600.0,
+            "networkViewDistance": 500,
+            "serverMinGrassDistance": 50,
+            "battlEye": true,
+            "disableThirdPerson": false,
+            "VONDisableUI": true,
+            "VONDisableDirectSpeechUI": false,
+            "VONCanTransmitCrossFaction": true
+        },
+        "mods": [
+            {
+                "modId": "613D7D975860E8F6",
+                "name": "ExA Xtra",
+                "version": "1.0.19"
+            },
+            {
+                "modId": "620E584B1D2C96A4",
+                "name": "Big Chungus Shotguns",
+                "version": "1.0.31"
+            },
+            {
+                "modId": "5E8EB849F3CF691C",
+                "name": "ML_Eastern_European_Assets",
+                "version": "1.0.41"
+            },
+            {
+                "modId": "652C91903797492D",
+                "name": "Generic Training Signs",
+                "version": "1.0.1"
+            },
+            {
+                "modId": "65EF16962A8D9840",
+                "name": "Simple Press Gear",
+                "version": "1.0.1"
+            },
+            {
+                "modId": "657A1A9334708DE4",
+                "name": "Bushwar Assets- Buildings4",
+                "version": "1.0.5"
+            },
+            {
+                "modId": "6503091A7B264FC3",
+                "name": "WCS_Motorbikes",
+                "version": "1.0.8"
+            },
+            {
+                "modId": "622955949A4CBC17",
+                "name": "GMFX chemical wafare expansion",
+                "version": "1.0.16"
+            },
+            {
+                "modId": "61E2DD518BEEB7B5",
+                "name": "BasicBanking",
+                "version": "1.0.35"
+            },
+            {
+                "modId": "61F435F91ABE5DBC",
+                "name": "Switch Glocks",
+                "version": "1.0.0"
+            },
+            {
+                "modId": "5D7531C2D05BC700",
+                "name": "MCR-Pack 5.56x45",
+                "version": "1.0.11"
+            },
+            {
+                "modId": "655E69384D02FD0D",
+                "name": "1980s Civilian Addon",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "6309676D2B8956B4",
+                "name": "Nations at War Items",
+                "version": "4.0.11"
+            },
+            {
+                "modId": "630CF0464C5F6E0B",
+                "name": "Big Range Antenna",
+                "version": "1.0.1"
+            },
+            {
+                "modId": "5C9758250C8C56F1",
+                "name": "Bon Action Animations - MANW",
+                "version": "0.0.36"
+            },
+            {
+                "modId": "5AE1743930664E19",
+                "name": "Glock",
+                "version": "1.0.5"
+            },
+            {
+                "modId": "659708442E2BCE3F",
+                "name": "UH1H Law Enforcement Pack",
+                "version": "0.1.0"
+            },
+            {
+                "modId": "5D0551624969C92E",
+                "name": "Zeliks Character",
+                "version": "1.1.19"
+            },
+            {
+                "modId": "5DC80CC55F805CAE",
+                "name": "Suspicious Item Props",
+                "version": "1.3.4"
+            },
+            {
+                "modId": "64EF3D89BCE67875",
+                "name": "Garages for Life Servers",
+                "version": "0.0.6"
+            },
+            {
+                "modId": "65B72A84F7056795",
+                "name": "Cops V Gangs Life",
+                "version": "1.0.0"
+            },
+            {
+                "modId": "61C74A8B647617DA",
+                "name": "WCS_Attachments",
+                "version": "3.0.1"
+            },
+            {
+                "modId": "5D88E38CC3A4B847",
+                "name": "MAC-10",
+                "version": "1.0.4"
+            },
+            {
+                "modId": "616911425623E02F",
+                "name": "Insurgents clothing SAF",
+                "version": "1.0.4"
+            },
+            {
+                "modId": "5A78300A9F2D7A65",
+                "name": "HMAS Adelaide",
+                "version": "1.0.5"
+            },
+            {
+                "modId": "5D6EBC81EB1842EF",
+                "name": "Enfusion Persistence Framework",
+                "version": "0.6.13"
+            },
+            {
+                "modId": "5994AD5A9F33BE57",
+                "name": "Game Master FX",
+                "version": "1.0.106"
+            },
+            {
+                "modId": "62593E440F3FF363",
+                "name": "Military Boats",
+                "version": "1.0.22"
+            },
+            {
+                "modId": "65EAE3654D22184A",
+                "name": "Anizay-MANW 2025",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "59B70A5A19E9B51E",
+                "name": "Vergys Custom Clothing",
+                "version": "0.1.29"
+            },
+            {
+                "modId": "5E5CF1DCC95C888E",
+                "name": "x26p taser",
+                "version": "1.0.8"
+            },
+            {
+                "modId": "5D84C738432BFE6A",
+                "name": "WolfsBuildingPack",
+                "version": "0.1.56"
+            },
+            {
+                "modId": "62F2A5E273F2C481",
+                "name": "Tracksuit",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "652427A181E6F051",
+                "name": "Everon Troopers",
+                "version": "0.1.9"
+            },
+            {
+                "modId": "61C408151551966F",
+                "name": "Just More Buildings",
+                "version": "0.0.6"
+            },
+            {
+                "modId": "60A0680330519A58",
+                "name": "Reloadz Assets",
+                "version": "0.1.1"
+            },
+            {
+                "modId": "5C6CC278BBBFAA71",
+                "name": "Functional Knives",
+                "version": "0.1.11"
+            },
+            {
+                "modId": "5D36B9F481CBC07A",
+                "name": "Custom_Garage",
+                "version": "0.0.3"
+            },
+            {
+                "modId": "64EACB7A2B026FDD",
+                "name": "Sheriff Pack - Reloadz",
+                "version": "0.1.18"
+            },
+            {
+                "modId": "6052A9DD45564825",
+                "name": "You can sit",
+                "version": "1.0.8"
+            },
+            {
+                "modId": "5D6EA74A94173EDF",
+                "name": "Enfusion Database Framework",
+                "version": "0.6.7"
+            },
+            {
+                "modId": "6552858F171EA023",
+                "name": "Crooks & Police",
+                "version": "1.0.1"
+            },
+            {
+                "modId": "5CCB7796810C60BB",
+                "name": "Bank Building",
+                "version": "0.0.2"
+            },
+            {
+                "modId": "5ABD0CB57F7E9EB1",
+                "name": "RIS Laser Attachments",
+                "version": "1.0.81"
+            },
+            {
+                "modId": "644F5B4619455A52",
+                "name": "Kodiis Building System",
+                "version": "0.3.43"
+            },
+            {
+                "modId": "5CB6E1FA81C7B8D5",
+                "name": "Police Department",
+                "version": "0.0.2"
+            },
+            {
+                "modId": "5F0D245931200FD1",
+                "name": "Railway Generator",
+                "version": "1.0.5"
+            },
+            {
+                "modId": "629E31161BF14984",
+                "name": "Reloadz Police",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "62A668F513428630",
+                "name": "WCS_Scopes",
+                "version": "3.0.3"
+            },
+            {
+                "modId": "61ECB5EFAA346151",
+                "name": "TacticalAnimationOverhaul TEST",
+                "version": "2.0.62"
+            },
+            {
+                "modId": "5EED4468698C0257",
+                "name": "MEP civil",
+                "version": "1.0.14"
+            },
+            {
+                "modId": "5CA6BA2F63DE1174",
+                "name": "M17 Pistol",
+                "version": "1.0.16"
+            },
+            {
+                "modId": "60F4F2DD0E3F7772",
+                "name": "EveronxArland",
+                "version": "0.0.4"
+            },
+            {
+                "modId": "60CAFAA76E027A42",
+                "name": "Reloadz Vehicles",
+                "version": "1.0.11"
+            },
+            {
+                "modId": "65E4F2963D1A5A60",
+                "name": "Team ELAN - Arma Life - Props",
+                "version": "0.9.1"
+            },
+            {
+                "modId": "647B32B1810EEDC4",
+                "name": "Darkgru Female Operators",
+                "version": "1.0.2"
+            },
+            {
+                "modId": "62B6799D4F0B2FE5",
+                "name": "Prop KTM",
+                "version": "1.0.0"
+            },
+            {
+                "modId": "630B3E95B52F31DF",
+                "name": "Domins Civilian Expansion",
+                "version": "1.0.3"
+            },
+            {
+                "modId": "59636E668EA37AD7",
+                "name": "Everon Life",
+                "version": "0.0.28"
+            },
+            {
+                "modId": "1337C0DE5DABBEEF",
+                "name": "RHS - Content Pack 01",
+                "version": "0.12.4494"
+            },
+            {
+                "modId": "64633C18B7FD15BB",
+                "name": "Police_Belt",
+                "version": "1.0.6"
+            },
+            {
+                "modId": "646D52AF8BB3FF15",
+                "name": "ACE Captives",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "5CAEEA7A9BBDAAFB",
+                "name": "Smartphone",
+                "version": "0.0.4"
+            },
+            {
+                "modId": "623501D56E4BBFE7",
+                "name": "Vinny - Middle East Civilians",
+                "version": "1.0.8"
+            },
+            {
+                "modId": "626A8C89099C8F12",
+                "name": "IH_Better_GM_Props",
+                "version": "0.0.27"
+            },
+            {
+                "modId": "61A0D54519634294",
+                "name": "Vinny - Civilians",
+                "version": "1.1.0"
+            },
+            {
+                "modId": "60C4CE4888FF4621",
+                "name": "ACE Core",
+                "version": "1.3.2"
+            },
+            {
+                "modId": "61B928374BEA9455",
+                "name": "InventoryItems",
+                "version": "1.0.21"
+            },
+            {
+                "modId": "5965550F24A0C152",
+                "name": "Where Am I",
+                "version": "1.2.0"
+            },
+            {
+                "modId": "5E329785BB8B38F2",
+                "name": "Shoot Houses BETA",
+                "version": "0.0.4"
+            },
+            {
+                "modId": "60FB19EB2B5D119C",
+                "name": "Civilian Clothing Mod",
+                "version": "1.1.12"
+            },
+            {
+                "modId": "5AB301290317994A",
+                "name": "Bacon Suppressors",
+                "version": "1.2.7"
+            },
+            {
+                "modId": "BADC0DEDABBEDA5E",
+                "name": "RHS - Content Pack 02",
+                "version": "0.12.4494"
+            },
+            {
+                "modId": "631A9C6C92283C44",
+                "name": "Pronto Hub",
+                "version": "1.0.32"
+            },
+            {
+                "modId": "61B84088181A8FA4",
+                "name": "Big Chungus Motorbike",
+                "version": "1.0.17"
+            },
+            {
+                "modId": "5CA125536EE7430A",
+                "name": "M110 DMR",
+                "version": "1.0.27"
+            },
+            {
+                "modId": "5E389BB9F58B79A6",
+                "name": "SpaceCore",
+                "version": "1.3.9"
+            },
+            {
+                "modId": "653AED6F7501C66E",
+                "name": "Everon Ultimate NATO Edicion",
+                "version": "1.0.1"
+            },
+            {
+                "modId": "65C694F214BF091D",
+                "name": "TRex Pickup Truck HAZARD",
+                "version": "1.0.5"
+            },
+            {
+                "modId": "629B2BA37EFFD577",
+                "name": "WCS_Armaments",
+                "version": "3.0.16"
+            },
+            {
+                "modId": "5D681A42026DF496",
+                "name": "Everon_ buildings_and_prarps",
+                "version": "2.4.0"
+            },
+            {
+                "modId": "64EE818E08AFCF94",
+                "name": "MFD Framework",
+                "version": "0.3.1"
+            },
+            {
+                "modId": "5D0515A58DEDD5D0",
+                "name": "House",
+                "version": "0.0.6"
+            },
+            {
+                "modId": "65EF7CDC5E57C7A2",
+                "name": "For Vanilla Guns",
+                "version": "1.0.0"
+            },
+            {
+                "modId": "6520F7EA34CF63A5",
+                "name": "Everon PD",
+                "version": "0.1.3"
+            }
+        ],
+        "visible": true,
+        "crossPlatform": true
+    },
+    "operating": {
+        "joinQueue": {
+            "maxSize": 50
+        }
+    }
+}
